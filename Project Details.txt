@@ -1,0 +1,21 @@
+Project Description:
+
+The task for this project is to create a website for a (fictional)Greek restaurant named
+Little Lemon using the Django Framework. The website will provide customers with the 
+ability to make reservations and place orders. The goal of this project is to increase 
+the restaurant's reach and customer base.
+
+Languages Used:
+
+- Python
+- Javascript
+- HTML
+- CSS
+
+Framework Used:
+
+- Django
+
+Database:
+
+- MySQL
