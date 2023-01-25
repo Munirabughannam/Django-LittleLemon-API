@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12c3a775-1b44-4582-b629-151504a0255b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c89c666-9eb1-40fe-8ada-8f372ef1a2cd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8c89c666-9eb1-40fe-8ada-8f372ef1a2cd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LittleLemon/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/LittleLemon/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LittleLemon/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/LittleLemon/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/restaurant/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -34,18 +40,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Munir/Desktop/PROGRAMMING/PYTHON/DJANGO/COURSERA LABS/API'S/COURSE FINAL/LittleLemon",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Munir/Desktop/PROGRAMMING/PYTHON/DJANGO/COURSERA LABS/API'S/COURSE FINAL/LittleLemon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Munir\Desktop\BACKEND CAPSTONE\VERSION1\Little_Lemon\LittleLemon\templates\partials" />
@@ -86,6 +92,8 @@
       <option name="presentableId" value="Default" />
       <updated>1674477970066</updated>
       <workItem from="1674477972292" duration="4488000" />
+      <workItem from="1674634748796" duration="656000" />
+      <workItem from="1674635425128" duration="14600000" />
     </task>
     <servers />
   </component>

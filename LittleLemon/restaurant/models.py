@@ -20,4 +20,4 @@ class MenuItems(models.Model):
         verbose_name_plural = 'Menu Items'
 
     def __str__(self):
-        return self.Title
+        return f'{self.Title} : {str(self.Price)}'
